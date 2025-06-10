@@ -1,4 +1,2 @@
 This is text file
-Hi I am your husband
-Hi change again in your repo
-I collectbrate with may
+I deleted some text and updated some text
